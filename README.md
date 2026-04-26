@@ -28,9 +28,9 @@ Currently, I’m building and improving real-world style projects while strength
 
 | | Project | Description | Stack |
 |---|---|---|---|
-| 🐾 | [Pawductivity](https://github.com/AENCRUZ/Pawductivity) | Gamified productivity app with pet companions *(in progress)* | C#, .NET WinForms |
+| 🐾 | [Pawductivity](https://github.com/AENCRUZ/Pawductivity) | Gamified productivity app with pet companions | C#, .NET WinForms |
 | 💙 | [FlowCtrl](https://github.com/AENCRUZ/Project_FLOWCTRL) | Menstrual cycle tracker with predictive insights | Java |
-| 🏆 | [VEMT](https://github.com/AENCRUZ/Valorant-Esports-Match-Tracker) | A database-driven desktop app for managing Valorant tournament data | Python |
+| 🏆 | [VEMT](https://github.com/AENCRUZ/Valorant-Esports-Match-Tracker) | A database-driven desktop app for managing Valorant tournament data | Python, MySQL |
 
 ---
 
@@ -44,6 +44,6 @@ Currently, I’m building and improving real-world style projects while strength
 
 <br>
 
-✦ *open to junior dev opportunities · always learning* ✦
+✦ *open to dev opportunities · always learning* ✦
 
 </div>
