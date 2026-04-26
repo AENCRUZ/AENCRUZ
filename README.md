@@ -3,11 +3,6 @@
 ### AENCRUZ
 *Computer Science undergraduate · aspiring junior software developer · builder of practical systems*
 
-I enjoy turning ideas into functional software — from console-based tools to GUI and database-driven applications.  
-My focus is on clean logic, structured design, and building applications that are both useful and user-friendly.
-
-Currently, I’m building and improving real-world style projects while strengthening my skills in software development and system design.
-
 </div>
 
 ---
