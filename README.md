@@ -11,6 +11,7 @@ Currently, I’m building and improving real-world style projects while strength
 </div>
 
 ---
+<div align="center">
 
 ### 🛠 Tech stack
 
@@ -20,27 +21,11 @@ Currently, I’m building and improving real-world style projects while strength
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-`OOP` · `Relational databases` · `GUI & CLI systems` · `VS Code`
-
----
-
-### 🚀 Projects
-
-| | Project | Description | Stack |
-|---|---|---|---|
-| 🐾 | [Pawductivity](https://github.com/AENCRUZ/Pawductivity) | Gamified productivity app with pet companions | C#, .NET WinForms |
-| 💙 | [FlowCtrl](https://github.com/AENCRUZ/Project_FLOWCTRL) | Menstrual cycle tracker with predictive insights | Java |
-| 🏆 | [VEMT](https://github.com/AENCRUZ/Valorant-Esports-Match-Tracker) | A database-driven desktop app for managing Valorant tournament data | Python, MySQL |
-
----
-
 <div align="center">
 
-### 📫 Let's connect
+`OOP` · `Relational databases` · `GUI & CLI systems` · `VS Code`
 
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:angelyncruzat123@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/aen.alcrzt/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/angelyn.cruzat)
+<div align="center">
 
 <br>
 
