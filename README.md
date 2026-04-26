@@ -1,7 +1,7 @@
 <div align="center">
 
-### AENCRUZ
-*Computer Science undergraduate · aspiring junior software developer · builder of practical systems*
+### AEN
+*Computer Science undergraduate · builder of practical systems*
 
 </div>
 
