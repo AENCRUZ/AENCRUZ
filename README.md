@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Angelyn 👋
 
-<!--
-**AENCRUZ/AENCRUZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS undergraduate building practical, user-centered desktop applications.
 
-Here are some ideas to get you started:
+## 🛠️ Tech stack
+`C++` `C#` `Java` `Python` `SQL` `MySQL`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+OOP · Relational databases · GUI & CLI systems · GitHub · VS Code
+
+## 🚀 Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| 🐾 [Pawductivity](https://github.com/AENCRUZ/Pawductivity) | Gamified productivity app *(in progress)* | C#, .NET WinForms |
+| 💙 [FlowCtrl](https://github.com/AENCRUZ/Project_FLOWCTRL) | Menstrual cycle tracker with predictive insights | Java |
+
+## 📫 Let's connect
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/angelyn.cruzat)
