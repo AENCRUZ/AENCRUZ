@@ -1,7 +1,6 @@
 <div align="center">
 
-### ANGELYN CRUZ
-# Hi, I'm Aen ✨
+### AENCRUZ
 *Computer Science undergraduate · aspiring junior software developer · builder of practical systems*
 
 I enjoy turning ideas into functional software — from console-based tools to GUI and database-driven applications.  
