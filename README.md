@@ -1,7 +1,7 @@
 <div align="center">
 
-## ✨ Hi, I'm Angelyn 🐾
-
+### ANGELYN CRUZ
+# Hi, I'm Aen ✨
 *Computer Science undergraduate · aspiring junior software developer · builder of practical systems*
 
 I enjoy turning ideas into functional software — from console-based tools to GUI and database-driven applications.  
@@ -35,10 +35,16 @@ Currently, I’m building and improving real-world style projects while strength
 
 ---
 
+<div align="center">
+
 ### 📫 Let's connect
 
-[![Email](https://img.shields.io/badge/Email-f4a7c3?style=flat-square&logo=gmail&logoColor=white)](mailto:angelyncruzat123@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-f4a7c3?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/aen.alcrzt/)
-[![Facebook](https://img.shields.io/badge/Facebook-f4a7c3?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/angelyn.cruzat)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:angelyncruzat123@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/aen.alcrzt/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/angelyn.cruzat)
 
-<sub>open to junior dev opportunities ✦ always learning</sub>
+<br>
+
+✦ *open to junior dev opportunities · always learning* ✦
+
+</div>
