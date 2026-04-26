@@ -7,8 +7,6 @@
 I enjoy turning ideas into functional software — from console-based tools to GUI and database-driven applications.  
 My focus is on clean logic, structured design, and building applications that are both useful and user-friendly.
 
-I’ve worked on projects involving **C++, C#, Python, Java, and SQL**, including CRUD systems, object-oriented designs, and database-integrated applications.
-
 Currently, I’m building and improving real-world style projects while strengthening my skills in software development and system design.
 
 </div>
@@ -17,11 +15,11 @@ Currently, I’m building and improving real-world style projects while strength
 
 ### 🛠 Tech stack
 
-![C++](https://img.shields.io/badge/C++-f4a7c3?style=flat-square&logoColor=white&logo=cplusplus)
-![C#](https://img.shields.io/badge/C%23-f4a7c3?style=flat-square&logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-f4a7c3?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-f4a7c3?style=flat-square&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-f4a7c3?style=flat-square&logo=mysql&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 `OOP` · `Relational databases` · `GUI & CLI systems` · `VS Code`
 
