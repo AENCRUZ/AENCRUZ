@@ -2,10 +2,14 @@
 
 ## ✨ Hi, I'm Angelyn 🐾
 
-*CS undergrad · builder of practical apps · future junior dev*
+*Computer Science undergraduate · aspiring junior software developer · builder of practical systems*
 
-I love turning ideas into working software — from console tools to full GUI apps.
-I care about clean logic, thoughtful design, and making things that actually feel good to use.
+I enjoy turning ideas into functional software — from console-based tools to GUI and database-driven applications.  
+My focus is on clean logic, structured design, and building applications that are both useful and user-friendly.
+
+I’ve worked on projects involving **C++, C#, Python, Java, and SQL**, including CRUD systems, object-oriented designs, and database-integrated applications.
+
+Currently, I’m building and improving real-world style projects while strengthening my skills in software development and system design.
 
 </div>
 
@@ -29,6 +33,7 @@ I care about clean logic, thoughtful design, and making things that actually fee
 |---|---|---|---|
 | 🐾 | [Pawductivity](https://github.com/AENCRUZ/Pawductivity) | Gamified productivity app with pet companions *(in progress)* | C#, .NET WinForms |
 | 💙 | [FlowCtrl](https://github.com/AENCRUZ/Project_FLOWCTRL) | Menstrual cycle tracker with predictive insights | Java |
+| 🏆 | [VEMT](https://github.com/AENCRUZ/Valorant-Esports-Match-Tracker) | A database-driven desktop app for managing Valorant tournament data | Python |
 
 ---
 
