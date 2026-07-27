@@ -1,6 +1,8 @@
-# Hi, I'm AEN 👋
+<div align="center">
 
-**Computer Science Undergraduate · Developer · System Builder**
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:4A90E2,100:8E44AD&height=220&section=header&text=Hi,%20I'm%20AEN%20%F0%9F%91%8B&fontSize=48&fontColor=ffffff&desc=Computer%20Science%20Undergraduate%20%C2%B7%20Developer%20%C2%B7%20System%20Builder&descSize=18&descAlignY=62&animation=fadeIn)
+
+</div>
 
 ---
 
@@ -40,6 +42,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
 
 ---
 
