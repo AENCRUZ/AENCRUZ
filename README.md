@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:4A90E2,100:8E44AD&height=220&section=header&text=Hi,%20I'm%20AEN%20%F0%9F%91%8B&fontSize=48&fontColor=ffffff&desc=Computer%20Science%20Undergraduate%20%C2%B7%20Developer%20%C2%B7%20System%20Builder&descSize=18&descAlignY=62&animation=fadeIn)
+![Pixel Header](./assets/header.svg)
 
 </div>
 
@@ -15,7 +15,7 @@
 
 ---
 
-## Tech Stack
+## 🧰 Tech Stack
 
 **Languages**
 
@@ -46,7 +46,7 @@
 
 ---
 
-## Development Focus
+## 🎯 Development Focus
 
 - Object-Oriented Programming
 - Database Systems
@@ -57,7 +57,7 @@
 
 ---
 
-## Currently Learning
+## 📈 Currently Learning
 
 - Improving programming fundamentals
 - Data Structures & Algorithms
@@ -67,7 +67,7 @@
 
 ---
 
-## Interests
+## 💡 Interests
 
 `Software Engineering` `Backend Development` `Database Systems` `Game Development` `Creative Technology`
 
