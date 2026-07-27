@@ -15,7 +15,7 @@
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -46,7 +46,7 @@
 
 ---
 
-## 🎯 Development Focus
+## Development Focus
 
 - Object-Oriented Programming
 - Database Systems
@@ -57,7 +57,7 @@
 
 ---
 
-## 📈 Currently Learning
+## Currently Learning
 
 - Improving programming fundamentals
 - Data Structures & Algorithms
@@ -67,7 +67,7 @@
 
 ---
 
-## 💡 Interests
+## Interests
 
 `Software Engineering` `Backend Development` `Database Systems` `Game Development` `Creative Technology`
 
