@@ -51,6 +51,23 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=AENCRUZ&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AENCRUZ&layout=compact&theme=radical)
+
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=AENCRUZ&theme=radical)
+
+</div>
+
+---
+
 ## 🎯 Development Focus
 - Object-Oriented Programming
 - Database Systems
